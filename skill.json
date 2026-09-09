@@ -1,0 +1,13 @@
+{
+  "name": "genpark-graph-sparsification-edge-sampling-skill",
+  "version": "1.0.0",
+  "description": "Spectral and randomized graph sparsification reducing dense graph edges while preserving approximate cut and connectivity properties.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "graph-sparsification",
+    "random-sampling",
+    "spectral-graph",
+    "network-compression"
+  ]
+}
